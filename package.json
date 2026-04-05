@@ -1,10 +1,8 @@
 {
   "name": "nexus-wallpaper-api",
   "version": "1.0.0",
-  "description": "Nexus Life OS Wallpaper Generator API",
   "dependencies": {
-    "@sparticuz/chromium": "^123.0.1",
-    "puppeteer-core": "^22.6.0"
+    "@napi-rs/canvas": "^0.1.53"
   },
   "engines": {
     "node": "20.x"
